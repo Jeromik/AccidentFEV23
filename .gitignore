@@ -1,0 +1,12 @@
+.ipynb_checkpoints/*
+.DS_Store
+attente.ipynb
+
+algo_fab.ipynb
+testing.ipynb
+testing/testing_2.ipynb
+KNN_et_SVM copy.ipynb
+Algo logistique copy.ipynb
+data/dataset_18-21_for_model_encoding.csv
+resultats_fabien/*
+
